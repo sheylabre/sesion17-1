@@ -2,10 +2,12 @@
 
 Escribir un pseudocodigo que indique al usuario si el número ingresado es positivo o negativo.
 
-1. Primero ingresar un número
-2. El número debe ser menor que cero
-3. Luego el número entra a una condicional 
-4. Muestra el resultado si es positivo o negativo
+1. Ingresar un número
+2. Número menor que cero
+3. Si muestra número positivo
+4. sino muestra negativo
+4. Muestra del número
+5. FIN
 
 ![alt](http://4.1m.yt/oEoaUz-.jpg)
 
