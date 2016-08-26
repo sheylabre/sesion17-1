@@ -2,7 +2,8 @@
 
 Escribir un pseudocodigo que indique al usuario si el número ingresado es positivo o negativo.
 
-1. Ingresar un número
+1. INICIO
+2. Ingresar un número
 2. Número menor que cero
 3. Si muestra número positivo
 4. sino muestra negativo
